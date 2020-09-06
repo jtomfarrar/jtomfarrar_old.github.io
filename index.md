@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/jtomfarrar/jtomfarrar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a physical oceanographer at the Woods Hole Oceanographic Institution.  There is really nothing to see on this page, but you can check out my [staff page](https://www2.whoi.edu/staff/jfarrar/) at WHOI. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
